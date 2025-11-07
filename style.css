@@ -1,0 +1,23 @@
+*{
+font-family: Inter, sans-serif;
+}
+
+h1, h2, h3, .momo-trust-display-regular {
+  font-family: "Momo Trust Display", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(119, 119, 30);
+}
+
+.bgimg{
+    background-image: linear-gradient(rgba(155, 138, 138, 0.623), rgba(204, 201, 201, 0.726)), url(https://picsum.photos/2000);
+}
+
+
+.bgcolor{
+    background-color:  rgb(30, 39, 119) ;
+}
+
+.bgcolor:hover{
+    background-color: black;
+}
